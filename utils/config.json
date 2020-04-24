@@ -1,0 +1,7 @@
+{
+  "folder": "/home/ubuntu/13novCam1/13nov2019Cam1/",
+  "person_xml": "utils/person-detection-retail-0013.xml",
+  "person_bin": "utils/person-detection-retail-0013.bin",
+  "count_type": -1,
+  "file": "Video/walking_office_people.mp4"
+}
